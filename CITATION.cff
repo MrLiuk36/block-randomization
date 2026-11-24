@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 title: "block-randomization: stratified reproducible block randomization"
 type: software
 authors:
-  - name: "LC"
+  - name: "Luca Canduci"
     website: "https://github.com/MrLiuk36"
 repository-code: "https://github.com/MrLiuk36/block-randomization"
 license: MIT
