@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "block-randomization: stratified reproducible block randomization"
+type: software
+authors:
+  - name: "LC"
+    website: "https://github.com/MrLiuk36"
+repository-code: "https://github.com/MrLiuk36/block-randomization"
+license: MIT
+date-released: "2026-11-24"
